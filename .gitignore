@@ -1,0 +1,7 @@
+corewar
+bonus/corewar
+*.o
+*.a
+*.gcda
+*.gcno
+.DS_Store
